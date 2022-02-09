@@ -7,7 +7,7 @@
  * @param Integer $number An integer input
  * @return boolean whether the number is prime or not
  */
-//karthik
+//karthiki
 function isPrime(int $number)
 {
     if ($number === 2) {
